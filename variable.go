@@ -5,5 +5,5 @@ import "fmt"
 func main(){
 	var namadepan string = "alif"
 	var namabelakang string = "farhan"
-	fmt.Printf("Halo %s", namadepan, namabelakang)
+	fmt.Printf("Halo %s %s", namadepan, namabelakang)
 }
