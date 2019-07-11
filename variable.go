@@ -4,5 +4,5 @@ import "fmt"
 
 func main(){
 	var namadepan string = "alif"
-	fmt.Println(namadepan)
+	fmt.Printf("Halo %s",namadepan)
 }
