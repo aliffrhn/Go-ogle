@@ -10,11 +10,12 @@ func main(){
 	// Get Length with len()
 	fmt.Println("Length = ", len(fruits))
 
-	// Get Fruits
+	// Get Fruits Before Update
 	fmt.Println("Result Before Update = ", fruits)
 
 	// Update
 	fruits[1] = "Ayam"
 
+	// After Update
 	fmt.Println("Result After Update = ", fruits)
 }
