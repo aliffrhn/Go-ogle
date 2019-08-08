@@ -13,6 +13,6 @@ func tampilkan_pesan1(){
 	fmt.Println("Pesan Diterima 1")
 }
 
-func tampilkan_pesan2(){
+func tampilkan_pesan2()string{
 	return "Pesan Diterima 2"
 }
