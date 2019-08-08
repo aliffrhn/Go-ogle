@@ -6,6 +6,6 @@ func iniPrivate(){
 	fmt.Println("Saya Pada Private")
 }
 
-func iniPublic(){
+func IniPublic(){
 	fmt.Println("Saya Pada Public")
 }
