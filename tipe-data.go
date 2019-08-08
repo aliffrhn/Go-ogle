@@ -17,4 +17,8 @@ func main(){
 	// Negatif
 	var number_negatif int8 = -99 //-128 - 127
 	fmt.Println(number_negatif)
+
+	// Desimal
+	var number_desimal = 2.55
+	fmt.Println(number_desimal)
 }
