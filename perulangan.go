@@ -17,4 +17,16 @@ func main(){
 		fmt.Println("Nilai", nilai)
 		nilai++
 	}
+
+	var value = 1
+	// With Do While
+	for{
+		fmt.Println("Value", value)
+		
+		value++
+		
+		if value>10{
+			break
+		}
+	}
 }
