@@ -25,4 +25,8 @@ func main(){
 	// Boolean
 	var isExist bool = false
 	fmt.Println(isExist)
+
+	// 	String
+	var message string = "Helloworld"
+	fmt.Println(message)
 }
