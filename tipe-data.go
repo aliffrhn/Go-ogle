@@ -15,6 +15,6 @@ func main(){
 	fmt.Println(number_positif64)
 
 	// Negatif
-	var number_negatif int64 = -99
+	var number_negatif int8 = -99 //-128 - 127
 	fmt.Println(number_negatif)
 }
