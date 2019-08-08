@@ -19,4 +19,5 @@ type pelajar struct{
 
 func (s pelajar) namasaya(){
 	fmt.Println("Nama saya adalah", s.nama)
+	fmt.Println("Umur saya adalah", s.umur)
 }
