@@ -10,6 +10,15 @@ func main(){
 	// Check length fruits
 	fmt.Println(len(fruits))
 
-	// Call fruits in index 1
-	fmt.Println(fruits[0])
+	// Call fruits
+	fmt.Println(fruits)
+
+	// Append data
+	fruits = append(fruits, "Durian")
+
+	// Check length fruits
+	fmt.Println(len(fruits))
+
+	// Call fruits1
+	fmt.Println(fruits)
 }
