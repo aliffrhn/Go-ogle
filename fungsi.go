@@ -4,10 +4,10 @@ import "fmt"
 
 func main(){
 	
-	tampilkan_pesan()
+	fmt.Println(tampilkan_pesan())
 }
 
-func tampilkan_pesan(){
+func tampilkan_pesan()string{
 	
-	fmt.Println("Pesan Berhasil Diterima")
+	return "Pesan Berhasil Diterima"
 }
