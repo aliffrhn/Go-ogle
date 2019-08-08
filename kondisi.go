@@ -4,7 +4,10 @@ import "fmt"
 
 func main(){
 	
+	// Define Nilai
 	var nilai = 9
+	
+	// Condition
 	if nilai == 10{
 		fmt.Println("Lulus Dengan Baik")
 	}else if nilai >= 7{
