@@ -21,4 +21,8 @@ func main(){
 	// Desimal
 	var number_desimal = 2.55
 	fmt.Println(number_desimal)
+
+	// Boolean
+	var isExist bool = false
+	fmt.Println(isExist)
 }
