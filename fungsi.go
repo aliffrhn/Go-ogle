@@ -5,7 +5,7 @@ import "fmt"
 func main(){
 	
 	tampilkan_pesan1()
-	tampilkan_pesan2()
+	fmt.Println(tampilkan_pesan2())
 	// tampilkan_pesan3()
 }
 
