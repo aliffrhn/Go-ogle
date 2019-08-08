@@ -27,6 +27,6 @@ func main(){
 	fmt.Println(isExist)
 
 	// 	String
-	var message string = "Helloworld"
+	var message string = "Hello-World"
 	fmt.Println(message)
 }
